@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T13:56:36.473Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="89nZcbDEcmKwIx2TkDfn" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T13:57:07.302Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ABhWXCDPn4Fa4DG5plEN" version="13.8.8" type="github">
   <diagram id="Hr1LNcDFdF_ypw1xQ_ta" name="Page-1">
     <mxGraphModel dx="1673" dy="2081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,8 +115,8 @@
         <mxCell id="JO0JL_rtTt94p9omxoUN-4" value="&lt;h1&gt;Offshore Professionals&lt;/h1&gt;&lt;p style=&quot;text-align: justify&quot;&gt;Offshore staffing isn’t just about cost savings (though the cost savings are obviously one of the biggest benefits). It also gives you access to an entirely new pool of talent and can help your business work smarter in an increasingly competitive business landscape.&lt;/p&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;div&gt;If you think it sounds complex, don’t worry, offshore staffing is easy. In fact, the process is similar to how you’d hire talent locally.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We’ll help you work out what your hiring needs are and prepare detailed job profiles. Then our recruitment team will source potential candidates, run through the initial screening processes, then present you with our recommended shortlist. You can then screen the candidates so you can make an informed decision.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;You’ll work with our IT department to set up everything that’s required for your offshore staffing needs. Your MicroSourcing account manager will work with you on the operations and management side. We’ll help you identify key performance indicators, performance targets and reporting structures for your offshore staff. Once everything is ready to go, we’ll provide the complete array of management and support functions needed to help you run an effective offshore team.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="85" y="760" width="445" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="JO0JL_rtTt94p9omxoUN-5" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 32px&quot;&gt;Website Footer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#0050EF;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1110" width="960" height="120" as="geometry" />
+        <mxCell id="JO0JL_rtTt94p9omxoUN-5" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px&quot;&gt;Website Footer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#0050EF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1110" width="960" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
